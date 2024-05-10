@@ -24,12 +24,13 @@
 </p>
 
 <h2>Motivação</h2>
-Após conversar com vários educadores físicos e testemunhar suas dificuldades na cobrança de serviços aos alunos, percebi a falta de um sistema de pagamentos automatizado. Muitos enfrentam o desconforto de ter que cobrar diretamente, o que gera constrangimento.
+<p>Após conversar com vários educadores físicos e testemunhar suas dificuldades na cobrança de serviços aos alunos, percebi a falta de um sistema de pagamentos automatizado. Muitos enfrentam o desconforto de ter que cobrar diretamente, o que gera constrangimento.</p>
 
 Assim, surge o Tá Pago!, uma ideia baseada nessas necessidades. Hoje, vejo uma oportunidade real de implementação de forma simples e eficaz. Este projeto é voltado para educadores físicos, como personal trainers, professores de artes marciais, dança e instrutores de qualquer natureza. Oferece uma solução de cobrança amigável, permitindo que eles concentrem 100% de sua energia em seus negócios: melhorar a saúde de seus alunos.
 
 <h2>Funcionalidade</h2>
 O sistema de gestão de cobranças para educadores físicos possui diversas funcionalidades que visam facilitar e agilizar o processo de comunicação e cobrança com os alunos. Ele identifica automaticamente os alunos cujas mensalidades estão próximas do vencimento, que estão com mensalidades atrasadas ou cujo vencimento é na data atual.
+
 
 Utilizando um banco de dados, o sistema personaliza a interação com cada aluno, fornecendo um contexto específico para cada situação. Isso permite que o sistema forneça instruções claras sobre como proceder com o pagamento pendente ou responda a quaisquer dúvidas que o aluno possa ter.
 
