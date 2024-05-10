@@ -1,22 +1,22 @@
 [
-	{
-		"nome": "Renan Benício Renan Araújo",
-		"vencimento": "08/05/2024",
-      "forma_pagamento": "cartão de crédito"
-	},
-	{
-		"nome": "Manoel Kauê Ricardo Pereira",
-		"vencimento": "15/05/2024",
-      "forma_pagamento": "boleto"
-	},
-	{
-		"nome": "Letícia Patrícia da Rocha",
-		"vencimento": "01/05/2024",
-      "forma_pagamento": "boleto"
-	},
-	{
-		"nome": "Priscila Sarah Teresinha Rocha",
-		"vencimento": "10/05/2024",
-      "forma_pagamento": "pix"
-	}
+  {
+    "nome": "Renan Benício Renan Araújo",
+    "vencimento": "08/05/2024",
+    "forma_pagamento": "cartão de crédito"
+  },
+  {
+    "nome": "Manoel Kauê Ricardo Pereira",
+    "vencimento": "15/05/2024",
+    "forma_pagamento": "boleto"
+  },
+  {
+    "nome": "Letícia Patrícia da Rocha",
+    "vencimento": "01/05/2024",
+    "forma_pagamento": "boleto"
+  },
+  {
+    "nome": "Priscila Sarah Teresinha Rocha",
+    "vencimento": "10/05/2024",
+    "forma_pagamento": "pix"
+  }
 ]
