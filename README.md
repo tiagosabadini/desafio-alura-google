@@ -35,6 +35,9 @@ Utilizando um banco de dados, o sistema personaliza a interação com cada aluno
 
 Essa abordagem personalizada e automatizada não apenas simplifica o processo de cobrança para os educadores físicos, mas também melhora a experiência do aluno, fornecendo respostas rápidas e orientações precisas para resolver qualquer questão relacionada às mensalidades.
 
+![image](https://github.com/tiagosabadini/ta-pago/assets/1098781/02b22854-b179-4475-98bb-bcabf7eec732)
+
+
 <h2>Como Testar</h2>
 Faça o download do arquivo `App.ipynb` e envie para o <a target="_blank" href="https://colab.research.google.com/">Google Colab</a>. Crie sua variável (secret) com o nome `GOOGLE_API_KEY` e rode o modelo. Para fazer configurações de cenários específicos, modifique os parâmetros na seção **Configurando o contexto da conversa**.
 
