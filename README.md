@@ -10,7 +10,7 @@
 <h4 align="center">Ajudando a manter o treino dos seus alunos em dia :muscle:</h4>
 
 <p align="center">
-  <a href="https://gemini.google.com">
+  <a target="_blank" href="https://gemini.google.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/120px-Google_Gemini_logo.svg.png"
          alt="Gemini">
   </a>
@@ -36,7 +36,7 @@ Utilizando um banco de dados, o sistema personaliza a interação com cada aluno
 Essa abordagem personalizada e automatizada não apenas simplifica o processo de cobrança para os educadores físicos, mas também melhora a experiência do aluno, fornecendo respostas rápidas e orientações precisas para resolver qualquer questão relacionada às mensalidades.
 
 <h2>Como Testar</h2>
-Faça o download do arquivo `App.ipynb` e envie para o <a target="_blank" href="https://gemini.google.com">Google Colab</a>. Crie sua variável (secret) com o nome `GOOGLE_API_KEY` e rode o modelo. Para fazer configurações de cenários específicos, modifique os parâmetros na seção **Configurando o contexto da conversa**.
+Faça o download do arquivo `App.ipynb` e envie para o <a target="_blank" href="https://colab.research.google.com/">Google Colab</a>. Crie sua variável (secret) com o nome `GOOGLE_API_KEY` e rode o modelo. Para fazer configurações de cenários específicos, modifique os parâmetros na seção **Configurando o contexto da conversa**.
 
 <h2>Créditos</h2>
 Desenvolvido por <a target="_blank" href="https://github.com/tiagosabadini">Tiago Sabadini</a> para o <a target="_blank" href="https://cursos.alura.com.br/imersao">Desafio da Imersão Alura + Google</a>.
